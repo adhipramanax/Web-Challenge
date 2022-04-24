@@ -41,17 +41,14 @@
 
 ## ✨ Route Web
 
-1. Index : http://localhost:8081
-2. Create : http://localhost:8081/create
-3. Update : http://localhost:8081/update
+- Index : http://localhost:8081
+- Create : http://localhost:8081/create
+- Update : http://localhost:8081/update
  
 ## 🔥 Route API
 
 ```sh
-1. **List Car**
-URL : http://localhost:8081
-2. **Find Cars**
-URL : http://localhost:8081/cars/{id}
-3. **
-4. **
+- List Car http://localhost:8081
+- Find Cars http://localhost:8081/cars/{id}
+-  
 ```
