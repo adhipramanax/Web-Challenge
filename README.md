@@ -22,8 +22,10 @@
 - Dapat membuat sebuah HTTP Server yang dapat digunakan untuk melakukan operasi CRUD ke dalam Database melalui HTTP Request.
 ```
 
-## ERD (Entity Relationship Diagram)
+## 🔎 ERD (Entity Relationship Diagram)
+
 ![This is an image](https://res.cloudinary.com/dhuvbrmgg/image/upload/v1650769770/Binar%20Library/erd-rental-cars_niq7e5.png)
+
 ## 📦 Package
 
 1. **List Package**
