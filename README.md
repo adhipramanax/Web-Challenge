@@ -45,8 +45,8 @@ Figma Project   : [Figma Project](https://www.figma.com/file/H6xTtBW9Kzlf09nYnit
 2. Installation
 
 ```sh
-  - npm init -y
-  - npm install express nodemon sequelize pg ejs axios uuid cors express-fileupload
+  npm init -y
+  npm install express nodemon sequelize pg ejs axios uuid cors express-fileupload
 ```
 
 ## ✨ Route Web
