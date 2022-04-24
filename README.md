@@ -1,5 +1,5 @@
 # Challenge 5
-**DELIVERY**
+## 🚚 DELIVERY
 
 ```sh
 1. Membuat  HTTP Server yang dapat digunakan untuk melakukan manajemen data mobil
@@ -16,7 +16,7 @@
 
 ## ERD (Entity Relationship Diagram)
 ![This is an image](https://res.cloudinary.com/dhuvbrmgg/image/upload/v1650769770/Binar%20Library/erd-rental-cars_niq7e5.png)
-## Package
+## 📦 Package
 
 1. **List Package**
 
@@ -39,9 +39,19 @@
   - npm install express nodemon sequelize pg ejs axios uuid cors express-fileupload
 ```
 
-## Route Web
+## ✨ Route Web
 
 1. Index : http://localhost:8081
 2. Create : http://localhost:8081/create
 3. Update : http://localhost:8081/update
  
+## 🔥 Route API
+
+```sh
+1. **List Car**
+URL : http://localhost:8081
+2. **Find Cars**
+URL : http://localhost:8081/cars/{id}
+3. **
+4. **
+```
