@@ -1,4 +1,13 @@
 # Challenge 5
+## DELIVERY
+```sh
+1. Membuat  HTTP Server yang dapat digunakan untuk melakukan manajemen data mobil
+- Manajemen data mobil harus dapat dilakukan dengan menggunakan browser, sesuai dengan desain yang tertera
+- Manajemen data mobil harus dapat dilakukan melalui REST API (Menggunakan Postman)
+- Manajemen data mobil meliputi aksi-aksi berikut : Menambahkan data mobil, Memodifikasi data mobil yang sudah ada, Menghapus data mobil yang sudah ada, Melihat daftar - mobil yang tersedia di dalam database
+- Agar data mobil terpetakan dengan baik dan benar, maka entity relationship diagram harus tertera di dalam source code dari HTTP Server tersebut.
+2. Membuat Entity Relationship Diagram dengan menggunakan dbdiagram.io
+```
 
 ## ERD (Entity Relationship Diagram)
 ![This is an image](https://res.cloudinary.com/dhuvbrmgg/image/upload/v1650769770/Binar%20Library/erd-rental-cars_niq7e5.png)
