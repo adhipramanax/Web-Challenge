@@ -1,7 +1,7 @@
 # Challenge 5
 
 ## ERD (Entity Relationship Diagram)
-![This is an image](https://res.cloudinary.com/dhuvbrmgg/image/upload/v1650769037/Binar%20Library/erd-rental-mobil_benmqy.png)
+![This is an image](https://res.cloudinary.com/dhuvbrmgg/image/upload/v1650769770/Binar%20Library/erd-rental-cars_niq7e5.png)
 ## Package
 
 1. **List Package**
