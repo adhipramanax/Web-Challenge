@@ -48,7 +48,10 @@
 ## 🔥 Route API
 
 ```sh
-- List Car http://localhost:8081
-- Find Cars http://localhost:8081/cars/{id}
--  
+- List Car    : http://localhost:8081
+- Find Car    : http://localhost:8081/cars/{id}
+- Post car    : http://localhost:8081/cars
+- Update Car  : http://localhost:8081/cars/{id}
+- Delete Car  : http://localhost:8081/cars/{id}
+- list Size   : http://localhost:8081/api/size
 ```
