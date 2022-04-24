@@ -1,5 +1,6 @@
 # Challenge 5
 **DELIVERY**
+
 ```sh
 1. Membuat  HTTP Server yang dapat digunakan untuk melakukan manajemen data mobil
 - Manajemen data mobil harus dapat dilakukan dengan menggunakan browser, sesuai dengan desain yang tertera
@@ -9,8 +10,9 @@
 2. Membuat Entity Relationship Diagram dengan menggunakan dbdiagram.io
 ```
 **Design**
+
 [Figma Prototype](https://www.figma.com/proto/H6xTtBW9Kzlf09nYnitvbH/BCR---Car-Management-Dashboard?node-id=18344%3A7128&scaling=scale-down-width&page-id=18343%3A5831&starting-point-node-id=18344%3A7128&hide-ui=1)<br>
-[Figma Project](https://www.figma.com/file/H6xTtBW9Kzlf09nYnitvbH/BCR---Car-Management-Dashboard?node-id=18344%3A7128)<br>
+[Figma Project](https://www.figma.com/file/H6xTtBW9Kzlf09nYnitvbH/BCR---Car-Management-Dashboard?node-id=18344%3A7128)
 
 ## ERD (Entity Relationship Diagram)
 ![This is an image](https://res.cloudinary.com/dhuvbrmgg/image/upload/v1650769770/Binar%20Library/erd-rental-cars_niq7e5.png)
