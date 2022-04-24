@@ -9,10 +9,18 @@
 - Agar data mobil terpetakan dengan baik dan benar, maka entity relationship diagram harus tertera di dalam source code dari HTTP Server tersebut.
 2. Membuat Entity Relationship Diagram dengan menggunakan dbdiagram.io
 ```
-**Design**
+## 📊 Design
 
 [Figma Prototype](https://www.figma.com/proto/H6xTtBW9Kzlf09nYnitvbH/BCR---Car-Management-Dashboard?node-id=18344%3A7128&scaling=scale-down-width&page-id=18343%3A5831&starting-point-node-id=18344%3A7128&hide-ui=1)<br>
 [Figma Project](https://www.figma.com/file/H6xTtBW9Kzlf09nYnitvbH/BCR---Car-Management-Dashboard?node-id=18344%3A7128)
+
+## ✨ Overview
+```sh
+- Dapat membuat sebuah HTTP Server dengan menggunakan Express.js.
+- Dapat membuat sebuah HTTP Server sesuai dengan kaidah RESTful API.
+- Dapat menggunakan Database Management System untuk membuat tabel, memodifikasi tabel, dan melakukan operasi CRUD.
+- Dapat membuat sebuah HTTP Server yang dapat digunakan untuk melakukan operasi CRUD ke dalam Database melalui HTTP Request.
+```
 
 ## ERD (Entity Relationship Diagram)
 ![This is an image](https://res.cloudinary.com/dhuvbrmgg/image/upload/v1650769770/Binar%20Library/erd-rental-cars_niq7e5.png)
@@ -48,10 +56,10 @@
 ## 🔥 Route API
 
 ```sh
-- List Car    : http://localhost:8081
-- Find Car    : http://localhost:8081/cars/{id}
-- Post car    : http://localhost:8081/cars
-- Update Car  : http://localhost:8081/cars/{id}
-- Delete Car  : http://localhost:8081/cars/{id}
+- List Car    : http://localhost:8081/api/cars
+- Find Car    : http://localhost:8081/api/cars/:id
+- Post car    : http://localhost:8081/api/cars
+- Update Car  : http://localhost:8081/api/cars/:id
+- Delete Car  : http://localhost:8081/api/cars/:id
 - list Size   : http://localhost:8081/api/size
 ```
